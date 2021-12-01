@@ -18,6 +18,6 @@ public class GitTest {
         System.out.println("Hello World!");
         System.out.println("Meow");
         System.out.println("Sara");
-        System.out.println("Sumayah");
+        System.out.println("Sumayah sweet");
     }    
 }
